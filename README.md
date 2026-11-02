@@ -1,4 +1,16 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ItsEesha/ItsEesha/main/assets/neural-banner.gif" width="100%" alt="Animated neural network banner"/>
+
 # EEG Signal Analysis for Neural Feature Extraction
+
+**Neuro-Electrophysiology · Neural Signals · Computational Research**
+
+[Python Source](./eeg_neurorobotics_project.py) · [Dependencies](./requirements.txt) · [Profile](https://github.com/ItsEesha)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/ItsEesha/ItsEesha/main/assets/neural-divider.gif" width="100%" alt="Animated neural divider"/>
 
 An exploratory Python workflow for analysing motor-imagery EEG data from the [PhysioNet EEG Motor Movement/Imagery (EEGBCI) dataset](https://physionet.org/content/eegmmidb/1.0.0/).
 
