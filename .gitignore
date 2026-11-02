@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# EEG analysis outputs
+eeg_project_outputs/
+.venv/
+__pycache__/
+*.py[cod]
